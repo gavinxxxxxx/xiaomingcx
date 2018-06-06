@@ -4,8 +4,7 @@
 
 from selenium.common.exceptions import NoSuchElementException
 
-import ann
-import keys
+from android import keys, ann
 
 
 # 登录

@@ -2,8 +2,7 @@
 
 # 租车还车
 
-import ann
-import keys
+from android import keys, ann
 import time
 from selenium.common.exceptions import NoSuchElementException
 

@@ -1,10 +1,6 @@
 # coding=utf-8
 
-import ann
-import account
-import time
-import usecar
-import person_center
+from android import person_center, ann, account
 
 driver = ann.init()
 account.login_first(driver)

@@ -4,8 +4,7 @@
 
 from appium import webdriver
 
-import ann
-import keys
+from android import keys, ann
 
 
 # 设置
